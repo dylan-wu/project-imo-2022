@@ -1,1 +1,1 @@
-# project-imo
+# IMO 2022

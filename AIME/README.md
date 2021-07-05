@@ -1,3 +1,14 @@
+# AIME
+
+## AIME I Test Day
+
+- February 8, 2022
+
+## AIME II Test Day
+
+- February 16, 2022
+
+## Available tests
 
 | Year | Test I | Test II |
 |------|--------|---------|

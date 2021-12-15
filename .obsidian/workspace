@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "45714de815c90826",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cb9fc8af33de6a3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AIME/13 - 15/README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44c365485d0f349b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec539caf243fedde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf3f0bd0784b7dfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6848b99279bde35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de451188810b16b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "083f12e4b5cc7265",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e9bb7ae17039078",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AIME/13 - 15/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3cb9fc8af33de6a3",
+  "lastOpenFiles": [
+    "AIME/13 - 15/README.md",
+    "AIME/11 - 12/README.md",
+    "AIME/9 - 10/README.md",
+    "AIME/1 - 8/README.md",
+    "AIME/README.md",
+    "AIME/aime-categorized-problems.pdf"
+  ]
+}

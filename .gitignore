@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+.obsidian/*
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
